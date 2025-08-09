@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	bsl/bsl$ScreenMixin	(Lnet/minecraft/client/gui/Element;)Lnet/minecraft/client/gui/Element;	addDrawableChild	method_37063
+METHOD	bsl/bsl$TitleScreenMixin	(Lnet/minecraft/client/gui/Element;)Lnet/minecraft/client/gui/Element;	addDrawableChild	method_37063

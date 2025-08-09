@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "bsl/bsl$ScreenMixin": {
+      "init": "Lnet/minecraft/class_437;method_25423(Lnet/minecraft/class_310;II)V"
+    },
+    "bsl/bsl$TitleScreenMixin": {
+      "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "bsl/bsl$ScreenMixin": {
+        "init": "Lnet/minecraft/class_437;method_25423(Lnet/minecraft/class_310;II)V"
+      },
+      "bsl/bsl$TitleScreenMixin": {
+        "initWidgetsNormal": "Lnet/minecraft/class_442;method_2249(II)V"
+      }
+    }
+  }
+}
